@@ -199,3 +199,47 @@ RaktaVahini/
 ````
 
 ---
+**Registration Page**
+
+---
+<img width="367" height="778" alt="Screenshot 2026-05-12 at 7 16 50 PM" src="https://github.com/user-attachments/assets/b8627b20-b112-4b34-8931-44a6e5297799" />
+
+---
+**Login Page**
+
+---
+<img width="355" height="769" alt="Screenshot 2026-05-12 at 7 16 36 PM" src="https://github.com/user-attachments/assets/81db1511-d34d-4990-b5c8-8b229fcd84ca" />
+
+---
+
+**Home Page**
+
+---
+<img width="358" height="779" alt="Screenshot 2026-05-12 at 5 06 15 PM" src="https://github.com/user-attachments/assets/b875efeb-1d34-4972-8a7f-ed5ca0c761ae" />
+
+---
+**Emergency Search**
+
+---
+<img width="363" height="779" alt="Screenshot 2026-05-12 at 5 06 31 PM" src="https://github.com/user-attachments/assets/ebe0d996-85b9-42c0-bccf-edee6d8b8f67" />
+
+---
+**Ask AI**
+
+---
+<img width="355" height="771" alt="Screenshot 2026-05-12 at 5 06 43 PM" src="https://github.com/user-attachments/assets/e81bf4c4-8cfc-46d1-bd34-e83f39b2d3c3" />
+
+---
+**profile**
+
+---
+<img width="363" height="774" alt="Screenshot 2026-05-12 at 5 06 57 PM" src="https://github.com/user-attachments/assets/a3884315-0b32-40e7-9d1d-15d9204cf563" />
+
+---
+**Donation Log**
+
+---
+<img width="363" height="787" alt="Screenshot 2026-05-12 at 5 07 10 PM" src="https://github.com/user-attachments/assets/61b64604-610c-42be-adc3-c2360ba9441d" />
+
+
+---
