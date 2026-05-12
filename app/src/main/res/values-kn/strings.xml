@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ರಕ್ತ-ವಾಹಿನಿ</string>
+    <string name="nav_home">ಹೋಮ್</string>
+    <string name="nav_search">ಹುಡುಕಿ</string>
+    <string name="nav_profile">ಪ್ರೊಫೈಲ್</string>
+    <string name="nav_log">ಲಾಗ್</string>
+    <string name="nav_ai">AI ಅನ್ನು ಕೇಳಿ</string>
+    <string name="ai_hint">ರಕ್ತದಾನದ ಬಗ್ಗೆ ಕೇಳಿ…</string>
+    <string name="ai_welcome">ನಮಸ್ಕಾರ! ನಾನು ನಿಮ್ಮ AI ಸಹಾಯಕ. ರಕ್ತದಾನ, ಆರೋಗ್ಯ ಅಥವಾ ಈ ಅಪ್ಲಿಕೇಶನ್ ಬಳಕೆಯ ಬಗ್ಗೆ ಏನನ್ನಾದರೂ ಕೇಳಿ.</string>
+    <string name="ai_error">ಕ್ಷಮಿಸಿ, ಅದನ್ನು ಪ್ರಕ್ರಿಯೆಗೊಳಿಸಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ. ದಯವಿಟ್ಟು ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ.</string>
+    <string name="home_greeting_morning">ಶುಭೋದಯ,\n%1$s 👋</string>
+    <string name="home_greeting_afternoon">ಶುಭ ಮಧ್ಯಾಹ್ನ,\n%1$s 👋</string>
+    <string name="home_greeting_evening">ಶುಭ ಸಂಜೆ,\n%1$s 👋</string>
+    <string name="home_sos_title">ನಿಮಗೆ ತುರ್ತಾಗಿ ರಕ್ತದ ಅವಶ್ಯಕತೆ ಇದೆಯೇ?</string>
+    <string name="home_sos_desc">ರಕ್ತದ ಗುಂಪಿನ ಮೂಲಕ ಫಿಲ್ಟರ್ ಮಾಡಿದ ಹತ್ತಿರದ ಅರ್ಹ ದಾತರನ್ನು ತಕ್ಷಣವೇ ಹುಡುಕಲು ತುರ್ತು ಹುಡುಕಾಟವನ್ನು ಬಳಸಿ.</string>
+    <string name="home_label_stats">ನಿಮ್ಮ ಅಂಕಿಅಂಶಗಳು</string>
+    <string name="home_action_emergency">ತುರ್ತು</string>
+    <string name="home_action_profile">ಪ್ರೊಫೈಲ್</string>
+    <string name="home_action_log">ಲಾಗ್</string>
+    <string name="home_label_donations">ದಾನಗಳು</string>
+    <string name="home_label_nearby">ಹತ್ತಿರದ ದಾತರು</string>
+    <string name="home_label_last_donation">ಕೊನೆಯ ರಕ್ತದಾನ</string>
+    <string name="home_no_donations">ಇನ್ನೂ ಯಾವುದೇ ದಾನಗಳಿಲ್ಲ</string>
+    <string name="home_eligible_status">✓ ರಕ್ತದಾನ ಮಾಡಲು ಅರ್ಹರು</string>
+    <string name="select_language">ಭಾಷೆಯನ್ನು ಆಯ್ಕೆಮಾಡಿ</string>
+
+    <!-- Profile Strings -->
+    <string name="profile_edit_button">ಪ್ರೊಫೈಲ್ ಅನ್ನು ಸಂಪಾದಿಸಿ</string>
+    <string name="profile_label_availability">ಲಭ್ಯತೆ</string>
+    <string name="profile_eligible_toggle_title">ನಾನು ರಕ್ತದಾನ ಮಾಡಲು ಅರ್ಹನಾಗಿದ್ದೇನೆ</string>
+    <string name="profile_eligible_toggle_desc">ತುರ್ತು ಹುಡುಕಾಟಗಳಲ್ಲಿ ನನ್ನನ್ನು ತೋರಿಸಿ</string>
+    <string name="profile_label_account">ಖಾತೆ</string>
+    <string name="profile_label_phone">ಫೋನ್</string>
+    <string name="profile_label_total_donations">ಒಟ್ಟು ದಾನಗಳು</string>
+    <string name="profile_logout">ಲಾಗ್ ಔಟ್</string>
+    <string name="profile_eligible_never_donated">✓ ಅರ್ಹರು — ನೀವು ಇನ್ನೂ ದಾನ ಮಾಡಿಲ್ಲ</string>
+    <string name="profile_eligible_status">✓ ಅರ್ಹರು — ಕಳೆದ %1$d ದಿನಗಳ ಹಿಂದೆ ದಾನ ಮಾಡಲಾಗಿದೆ</string>
+    <string name="profile_ineligible_status">✗ ಅರ್ಹರಲ್ಲ — %1$d ದಿನಗಳು ಬಾಕಿ ಇವೆ</string>
+    <string name="profile_last_donation_label">ಕೊನೆಯ ರಕ್ತದಾನ: %1$s</string>
+
+    <!-- Search Strings -->
+    <string-array name="blood_groups">
+        <item>ಎಲ್ಲಾ</item>
+        <item>O+</item>
+        <item>O-</item>
+        <item>A+</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+    </string-array>
+    <string name="search_emergency_title">ತುರ್ತು ಹುಡುಕಾಟ</string>
+    <string name="search_anywhere">ಎಲ್ಲಿಯಾದರೂ</string>
+    <string name="search_no_results">ಯಾವುದೇ ಅರ್ಹ ದಾತರು ಕಂಡುಬಂದಿಲ್ಲ.\nವಿಶಾಲವಾದ ವ್ಯಾಪ್ತಿಯನ್ನು ಪ್ರಯತ್ನಿಸಿ.</string>
+    <string name="search_eligible_header">ಅರ್ಹ ದಾತರು</string>
+    <string name="search_ineligible_header">ಅರ್ಹರಲ್ಲದವರು</string>
+    <string name="search_label_eligible">ಅರ್ಹ ದಾತರು</string>
+
+    <string name="donor_days_ago">%1$d ದಿನಗಳ ಹಿಂದೆ</string>
+    <string name="donor_never_donated">ಮೊದಲ ಬಾರಿ</string>
+    <string name="donor_distance_format">%.1f ಕಿಮೀ</string>
+
+    <!-- Status Strings -->
+    <string name="status_eligible">ಅರ್ಹರು</string>
+    <string name="status_eligible_in_days">%1$d ದಿನಗಳಲ್ಲಿ ಅರ್ಹರು</string>
+    <string name="status_unavailable">ಲಭ್ಯವಿಲ್ಲ</string>
+
+    <!-- Log Strings -->
+    <string name="log_label_history">ಇತಿಹಾಸ</string>
+    <string name="log_label_total">ಒಟ್ಟು</string>
+    <string name="log_label_days_since">ದಿನಗಳ ಹಿಂದೆ</string>
+    <string name="log_empty_text">ಇನ್ನೂ ಯಾವುದೇ ದಾನಗಳಿಲ್ಲ.\nನಿಮ್ಮ ಮೊದಲನೆಯದನ್ನು ಲಾಗ್ ಮಾಡಿ!</string>
+    <string name="log_add_button">+ ಹೊಸ ರಕ್ತದಾನವನ್ನು ಲಾಗ್ ಮಾಡಿ</string>
+    <string name="log_add_title">ಹೊಸ ರಕ್ತದಾನವನ್ನು ಲಾಗ್ ಮಾಡಿ</string>
+    <string name="log_save">ಉಳಿಸಿ</string>
+    <string name="log_cancel">ರದ್ದುಮಾಡಿ</string>
+    <string name="log_unknown_center">ಅಜ್ಞಾತ ಕೇಂದ್ರ</string>
+</resources>

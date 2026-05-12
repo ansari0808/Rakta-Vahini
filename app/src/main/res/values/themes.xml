@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.RaktaVahini" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/red_primary</item>
+        <item name="colorSecondary">@color/green_eligible</item>
+        <item name="android:windowBackground">#FFFFFF</item>
+        <item name="colorSurface">@color/surface_light</item>
+        <item name="colorOnSurface">#1F1F1F</item>
+        <item name="colorOnBackground">#1F1F1F</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorOnSurfaceVariant">#8E8E93</item>
+    </style>
+
+    <style name="Theme.App.Starting" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">#FFFFFF</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_launcher_foreground</item>
+        <item name="postSplashScreenTheme">@style/Theme.RaktaVahini</item>
+    </style>
+</resources>

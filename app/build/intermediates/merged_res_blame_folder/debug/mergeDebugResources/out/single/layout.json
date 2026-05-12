@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "/Users/mohiuddin/.gradle/daemon/8.9/com.raktavahini.app-mergeDebugResources-63:/layout/item_section_header.xml",
+        "source": "/Users/mohiuddin/.gradle/daemon/8.9/com.raktavahini.app-main-66:/layout/item_section_header.xml"
+    },
+    {
+        "merged": "/Users/mohiuddin/.gradle/daemon/8.9/com.raktavahini.app-mergeDebugResources-63:/layout/fragment_ai.xml",
+        "source": "/Users/mohiuddin/.gradle/daemon/8.9/com.raktavahini.app-main-66:/layout/fragment_ai.xml"
+    },
+    {
+        "merged": "/Users/mohiuddin/.gradle/daemon/8.9/com.raktavahini.app-mergeDebugResources-63:/layout/fragment_splash.xml",
+        "source": "/Users/mohiuddin/.gradle/daemon/8.9/com.raktavahini.app-main-66:/layout/fragment_splash.xml"
+    },
+    {
+        "merged": "/Users/mohiuddin/.gradle/daemon/8.9/com.raktavahini.app-mergeDebugResources-63:/layout/item_log.xml",
+        "source": "/Users/mohiuddin/.gradle/daemon/8.9/com.raktavahini.app-main-66:/layout/item_log.xml"
+    },
+    {
+        "merged": "com.raktavahini.app-mergeDebugResources-63:/layout/fragment_login.xml",
+        "source": "com.raktavahini.app-main-66:/layout/fragment_login.xml"
+    },
+    {
+        "merged": "/Users/mohiuddin/.gradle/daemon/8.9/com.raktavahini.app-mergeDebugResources-63:/layout/fragment_search.xml",
+        "source": "/Users/mohiuddin/.gradle/daemon/8.9/com.raktavahini.app-main-66:/layout/fragment_search.xml"
+    },
+    {
+        "merged": "/Users/mohiuddin/.gradle/daemon/8.9/com.raktavahini.app-mergeDebugResources-63:/layout/item_donor_ineligible.xml",
+        "source": "/Users/mohiuddin/.gradle/daemon/8.9/com.raktavahini.app-main-66:/layout/item_donor_ineligible.xml"
+    },
+    {
+        "merged": "/Users/mohiuddin/.gradle/daemon/8.9/com.raktavahini.app-mergeDebugResources-63:/layout/dialog_add_donation.xml",
+        "source": "/Users/mohiuddin/.gradle/daemon/8.9/com.raktavahini.app-main-66:/layout/dialog_add_donation.xml"
+    },
+    {
+        "merged": "/Users/mohiuddin/.gradle/daemon/8.9/com.raktavahini.app-mergeDebugResources-63:/layout/dialog_log_donation.xml",
+        "source": "/Users/mohiuddin/.gradle/daemon/8.9/com.raktavahini.app-main-66:/layout/dialog_log_donation.xml"
+    },
+    {
+        "merged": "/Users/mohiuddin/.gradle/daemon/8.9/com.raktavahini.app-mergeDebugResources-63:/layout/activity_main.xml",
+        "source": "/Users/mohiuddin/.gradle/daemon/8.9/com.raktavahini.app-main-66:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/mohiuddin/.gradle/daemon/8.9/com.raktavahini.app-mergeDebugResources-63:/layout/fragment_edit_profile.xml",
+        "source": "/Users/mohiuddin/.gradle/daemon/8.9/com.raktavahini.app-main-66:/layout/fragment_edit_profile.xml"
+    },
+    {
+        "merged": "/Users/mohiuddin/.gradle/daemon/8.9/com.raktavahini.app-mergeDebugResources-63:/layout/fragment_log.xml",
+        "source": "/Users/mohiuddin/.gradle/daemon/8.9/com.raktavahini.app-main-66:/layout/fragment_log.xml"
+    },
+    {
+        "merged": "/Users/mohiuddin/.gradle/daemon/8.9/com.raktavahini.app-mergeDebugResources-63:/layout/fragment_profile.xml",
+        "source": "/Users/mohiuddin/.gradle/daemon/8.9/com.raktavahini.app-main-66:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "/Users/mohiuddin/.gradle/daemon/8.9/com.raktavahini.app-mergeDebugResources-63:/layout/fragment_register.xml",
+        "source": "/Users/mohiuddin/.gradle/daemon/8.9/com.raktavahini.app-main-66:/layout/fragment_register.xml"
+    },
+    {
+        "merged": "com.raktavahini.app-mergeDebugResources-63:/layout/fragment_register.xml",
+        "source": "com.raktavahini.app-main-66:/layout/fragment_register.xml"
+    },
+    {
+        "merged": "/Users/mohiuddin/.gradle/daemon/8.9/com.raktavahini.app-mergeDebugResources-63:/layout/item_donation_log.xml",
+        "source": "/Users/mohiuddin/.gradle/daemon/8.9/com.raktavahini.app-main-66:/layout/item_donation_log.xml"
+    },
+    {
+        "merged": "/Users/mohiuddin/.gradle/daemon/8.9/com.raktavahini.app-mergeDebugResources-63:/layout/item_donor.xml",
+        "source": "/Users/mohiuddin/.gradle/daemon/8.9/com.raktavahini.app-main-66:/layout/item_donor.xml"
+    },
+    {
+        "merged": "/Users/mohiuddin/.gradle/daemon/8.9/com.raktavahini.app-mergeDebugResources-63:/layout/fragment_login.xml",
+        "source": "/Users/mohiuddin/.gradle/daemon/8.9/com.raktavahini.app-main-66:/layout/fragment_login.xml"
+    },
+    {
+        "merged": "/Users/mohiuddin/.gradle/daemon/8.9/com.raktavahini.app-mergeDebugResources-63:/layout/fragment_home.xml",
+        "source": "/Users/mohiuddin/.gradle/daemon/8.9/com.raktavahini.app-main-66:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/Users/mohiuddin/.gradle/daemon/8.9/com.raktavahini.app-mergeDebugResources-63:/layout/item_chat_message.xml",
+        "source": "/Users/mohiuddin/.gradle/daemon/8.9/com.raktavahini.app-main-66:/layout/item_chat_message.xml"
+    },
+    {
+        "merged": "/Users/mohiuddin/.gradle/daemon/8.9/com.raktavahini.app-mergeDebugResources-63:/layout/dialog_add_log.xml",
+        "source": "/Users/mohiuddin/.gradle/daemon/8.9/com.raktavahini.app-main-66:/layout/dialog_add_log.xml"
+    }
+]

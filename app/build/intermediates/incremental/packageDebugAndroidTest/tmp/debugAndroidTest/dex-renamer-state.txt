@@ -1,0 +1,4 @@
+#Sun May 03 13:05:11 IST 2026
+base.0=/Users/mohiuddin/Downloads/RaktaVahini/app/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/0/classes.dex
+path.0=0/classes.dex
+renamed.0=classes.dex

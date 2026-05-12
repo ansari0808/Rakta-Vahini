@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Rakta-Vahini</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_search">Search</string>
+    <string name="nav_profile">Profile</string>
+    <string name="nav_log">Log</string>
+    <string name="nav_ai">Ask AI</string>
+    <string name="ai_hint">Ask about blood donation&#8230;</string>
+    <string name="ai_welcome">Hello! I\'m your AI assistant. Ask me anything about blood donation, health, or how to use this app.</string>
+    <string name="ai_error">Sorry, I couldn\'t process that. Please try again.</string>
+    <string name="home_greeting_morning">Good morning,\n%1$s 👋</string>
+    <string name="home_greeting_afternoon">Good afternoon,\n%1$s 👋</string>
+    <string name="home_greeting_evening">Good evening,\n%1$s 👋</string>
+    <string name="home_sos_title">Need blood urgently?</string>
+    <string name="home_sos_desc">Use Emergency Search to instantly find eligible, nearby donors filtered by blood group.</string>
+    <string name="home_label_stats">YOUR STATS</string>
+    <string name="home_action_emergency">Emergency</string>
+    <string name="home_action_profile">Profile</string>
+    <string name="home_action_log">Log</string>
+    <string name="home_label_donations">Donations</string>
+    <string name="home_label_nearby">Nearby donors</string>
+    <string name="home_label_last_donation">LAST DONATION</string>
+    <string name="home_no_donations">No donations yet</string>
+    <string name="home_eligible_status">✓ Eligible to donate</string>
+    <string name="select_language">Select Language</string>
+
+    <!-- Profile Strings -->
+    <string name="profile_edit_button">Edit Profile</string>
+    <string name="profile_label_availability">AVAILABILITY</string>
+    <string name="profile_eligible_toggle_title">I am eligible to donate</string>
+    <string name="profile_eligible_toggle_desc">Show me in emergency searches</string>
+    <string name="profile_label_account">ACCOUNT</string>
+    <string name="profile_label_phone">Phone</string>
+    <string name="profile_label_total_donations">Total donations</string>
+    <string name="profile_logout">Logout</string>
+    <string name="profile_eligible_never_donated">✓ Eligible — you haven\'t donated yet</string>
+    <string name="profile_eligible_status">✓ Eligible — last donated %1$d days ago</string>
+    <string name="profile_ineligible_status">✗ Not eligible — %1$d days remaining</string>
+    <string name="profile_last_donation_label">Last donation: %1$s</string>
+
+    <!-- Search Strings -->
+    <string-array name="blood_groups">
+        <item>All</item>
+        <item>O+</item>
+        <item>O-</item>
+        <item>A+</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+    </string-array>
+    <string name="search_emergency_title">Emergency Search</string>
+    <string name="search_anywhere">Anywhere</string>
+    <string name="search_no_results">No eligible donors found.\nTry a wider radius.</string>
+    <string name="search_eligible_header">ELIGIBLE DONORS</string>
+    <string name="search_ineligible_header">NOT ELIGIBLE</string>
+    <string name="search_label_eligible">Eligible donors</string>
+
+    <plurals name="search_results_count">
+        <item quantity="one">%1$d eligible donor found</item>
+        <item quantity="other">%1$d eligible donors found</item>
+    </plurals>
+    <string name="donor_days_ago">%1$dd ago</string>
+    <string name="donor_never_donated">First time</string>
+    <string name="donor_distance_format">%.1f km</string>
+
+    <!-- Status Strings -->
+    <string name="status_eligible">Eligible</string>
+    <string name="status_eligible_in_days">Eligible in %1$d days</string>
+    <string name="status_unavailable">Unavailable</string>
+
+    <!-- Notification Strings -->
+    <string name="notification_thank_you_title">Thank You, %1$s!</string>
+    <string name="notification_thank_you_text">Your donation has been logged. You are a lifesaver! ♥</string>
+
+    <!-- Log Strings -->
+    <string name="log_label_history">HISTORY</string>
+    <string name="log_label_total">Total</string>
+    <string name="log_label_days_since">Days since</string>
+    <string name="log_empty_text">No donations yet.\nLog your first one!</string>
+    <string name="log_add_button">+ Log New Donation</string>
+    <string name="log_add_title">Log New Donation</string>
+    <string name="log_save">Save</string>
+    <string name="log_cancel">Cancel</string>
+    <string name="log_unknown_center">Unknown center</string>
+</resources>

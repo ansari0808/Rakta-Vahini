@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent" android:layout_height="wrap_content"
+    android:orientation="horizontal" android:gravity="center_vertical"
+    android:paddingTop="12dp" android:paddingBottom="12dp"
+    android:alpha="0.4">
+
+    <com.google.android.material.card.MaterialCardView
+        android:layout_width="40dp" android:layout_height="40dp"
+        app:cardCornerRadius="12dp" app:cardElevation="0dp"
+        app:cardBackgroundColor="?attr/colorSurfaceVariant">
+        <TextView android:id="@+id/tv_initials"
+            android:layout_width="match_parent" android:layout_height="match_parent"
+            android:gravity="center" android:textSize="13sp"
+            android:fontFamily="sans-serif-medium" android:textColor="?attr/colorOnSurfaceVariant"/>
+    </com.google.android.material.card.MaterialCardView>
+
+    <LinearLayout android:layout_width="0dp" android:layout_height="wrap_content"
+        android:layout_weight="1" android:orientation="vertical" android:layout_marginStart="12dp">
+        <TextView android:id="@+id/tv_name"
+            android:layout_width="wrap_content" android:layout_height="wrap_content"
+            android:textSize="14sp" android:fontFamily="sans-serif-medium"
+            android:textColor="?attr/colorOnSurface"/>
+        <LinearLayout android:layout_width="wrap_content" android:layout_height="wrap_content"
+            android:orientation="horizontal" android:gravity="center_vertical" android:layout_marginTop="2dp">
+            <View android:layout_width="7dp" android:layout_height="7dp"
+                android:background="@drawable/dot_gray"/>
+            <TextView android:id="@+id/tv_blood_group"
+                android:layout_width="wrap_content" android:layout_height="wrap_content"
+                android:textSize="11sp" android:textColor="?attr/colorOnSurfaceVariant"
+                android:layout_marginStart="4dp"/>
+            <TextView android:id="@+id/tv_meta"
+                android:layout_width="wrap_content" android:layout_height="wrap_content"
+                android:textSize="11sp" android:textColor="?attr/colorOnSurfaceVariant"
+                android:layout_marginStart="4dp"/>
+        </LinearLayout>
+    </LinearLayout>
+
+    <!-- Hidden button - number never exposed -->
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btn_hidden"
+        android:layout_width="wrap_content" android:layout_height="wrap_content"
+        android:text="Hidden" android:textSize="12sp"
+        android:enabled="false"
+        app:backgroundTint="?attr/colorSurfaceVariant"
+        app:cornerRadius="20dp"
+        android:paddingStart="14dp" android:paddingEnd="14dp"
+        style="@style/Widget.MaterialComponents.Button"/>
+
+</LinearLayout>
